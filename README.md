@@ -10,12 +10,15 @@ Foobar is a Python library for dealing with word pluralization.
 Use the package manager [Github](https://github.com/) to install foobar.
 
 in the words of Abraham Lincoln:
->islam said 
+
 > Pardon my French
 
 ```bash
 pip install foobar
 ```
+Use `git status` to list all new or modified files that haven't yet been committed.
+ 
+ Go to [ITI](http://www.iti.gov.ed.eg)
 
 ## Usage
 
