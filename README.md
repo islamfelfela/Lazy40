@@ -2,8 +2,8 @@
 new public repo
 
 # Foobar
-this is made by @github/islamfelfela
-@github/support What do you think about these updates?
+`this is made by @github/islamfelfela`
+`@github/support What do you think about these updates?` 
 
 Foobar is a Python library for dealing with word pluralization.
 
