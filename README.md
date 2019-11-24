@@ -6,6 +6,7 @@ new public repo
 Foobar is a Python library for dealing with word pluralization.
 
 ## Installation
+:+1:
 
 Use the package manager [Github](https://github.com/) to install foobar.
 
