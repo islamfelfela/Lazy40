@@ -2,6 +2,7 @@
 new public repo
 
 # Foobar
+this is made by @islamfelfela
 
 Foobar is a Python library for dealing with word pluralization.
 
